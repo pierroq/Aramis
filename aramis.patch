@@ -1,4 +1,3 @@
-#test
 diff -Naur arch/arm/mach-mx28/clock.c arch/arm/mach-mx28/clock.c
 --- arch/arm/mach-mx28/clock.c	2013-04-08 11:49:15.760568969 +0200
 +++ arch/arm/mach-mx28/clock.c	2013-04-19 15:08:53.153633525 +0200
